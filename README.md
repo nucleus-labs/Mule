@@ -33,7 +33,6 @@ requirements from "Windows Laptop / Tablet" to
 - [ ] Put together a mock UI design for Mule's interface
 - [ ] Use Peacock to create the UI design for Mule (no 3d-renderer)
 - [ ] Implement the functionality behind the UI in rust
-- [ ] 
 
 ## Milestones
 
