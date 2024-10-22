@@ -1,7 +1,7 @@
 
 # Mule
 
-Mule is an in-progress rewrite of the [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS)
+Mule is the software component of an in-progress rewrite of the [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS)
 project that aims to maximize the project's accessibility, including the UI, upgrading hardware
 requirements from "Windows Laptop / Tablet" to
 "Any mobile device running Windows / Linux / Android / iOS", etc.
