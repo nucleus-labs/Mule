@@ -14,6 +14,7 @@
           packages = with pkgs; [
             valgrind-light
             clippy
+            wasm-bindgen-cli
           ];
 
           buildInputs = [
