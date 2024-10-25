@@ -10,7 +10,7 @@ requirements from "Windows Laptop / Tablet" to
 
 ## Progress Towards Prototype
 
-- [ ] Identify components of the original AOG software to rewrite
+- [ ] Identify components of the original AOG software, so it can be rewritten
     - Active
     - AgIO
     - GPS - Main Screen ([`FormGPS`](https://github.com/farmerbriantee/AgOpenGPS/blob/209ccead1b9c9e468c13c441a4ef9fbed5e5c49f/SourceCode/GPS/Forms/FormGPS.cs))
